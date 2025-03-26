@@ -17,7 +17,7 @@ I'm a dedicated software developer who loves sharing knowledge and exploring the
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=homayungit&layout=compact&theme=dark)
 
 ## 🌍 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/linkedin.com/in/md-homayun-kabir-00433017a)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/md-homayun-kabir-00433017a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDS7qSK2yS96R17yMT3hkcg%3D%3D)  
 [![Website](https://img.shields.io/badge/Website-Visit-green)](http://hisanmastery.com/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/homayungit)  
 
