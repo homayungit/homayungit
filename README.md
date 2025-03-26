@@ -2,7 +2,7 @@
 I'm a dedicated software developer who loves sharing knowledge and exploring the world of technology and programming!
 
 [![https://www.youtube.com/@HisanMastery-wq4v](https://img.shields.io/badge/YOUTUBE-SUBSCRIBE-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@HisanMastery-wq4v)
-[![https://www.linkedin.com/in/md-homayun-kabir-00433017a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDS7qSK2yS96R17yMT3hkcg%3D%3D](https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-homayun-kabir-00433017a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDS7qSK2yS96R17yMT3hkcg%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-homayun-kabir-00433017a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDS7qSK2yS96R17yMT3hkcg%3D%3D)
 [![http://hisanmastery.com/](https://img.shields.io/badge/HISANMASTERY-BROWSE-green?style=for-the-badge)](http://hisanmastery.com/)
 
 ## Visitor count
