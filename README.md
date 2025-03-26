@@ -5,6 +5,12 @@ I'm a dedicated software developer who loves sharing knowledge and exploring the
 [![linkedin.com/in/md-homayun-kabir-00433017a](https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/md-homayun-kabir-00433017a)
 [![http://hisanmastery.com/](https://img.shields.io/badge/DOTNETMASTERY-BROWSE-green?style=for-the-badge)](http://hisanmastery.com/)
 
+## Visitor count
+![Visitor Count](https://profile-counter.glitch.me/homayungit/count.svg)
+
+![](https://drive.google.com/uc?export=download&id=1KWKwJaEV0oN_zJhTpEkKB7vKkegBFi_1)
+
+
 ## 📊 GitHub Stats  
 ![Homayun Kabir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=homayungit&show_icons=true&theme=dark)
 
