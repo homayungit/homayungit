@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Homayun Kabir 👋  
+I'm a dedicated software developer who loves sharing knowledge and exploring the world of technology and programming!
 
+[![https://www.youtube.com/@HisanMastery-wq4v](https://img.shields.io/badge/YOUTUBE-SUBSCRIBE-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@HisanMastery-wq4v)
+[![linkedin.com/in/md-homayun-kabir-00433017a](https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/md-homayun-kabir-00433017a)
+[![http://hisanmastery.com/](https://img.shields.io/badge/DOTNETMASTERY-BROWSE-green?style=for-the-badge)](http://hisanmastery.com/)
 
-**homayungit/homayungit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats  
+![Homayun Kabir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=homayungit&show_icons=true&theme=dark)
 
-Here are some ideas to get you started:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=homayungit&layout=compact&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+## 🌍 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/linkedin.com/in/md-homayun-kabir-00433017a)  
+[![Website](https://img.shields.io/badge/Website-Visit-green)](http://hisanmastery.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/homayungit)  
 
+## 📌 Pinned Repositories  
+🔹 [**Identity Server**](https://github.com/homayungit/https://github.com/homayungit/IDPService8002)  
+🔹 [**Database Sync App**](https://github.com/homayungit/https://github.com/homayungit/DbSyncApp.git)  
+🔹 [**Clean Architecture**](https://github.com/homayungit/https://github.com/homayungit/microservice-.net8.git)  
+
+## 🏆 Achievements & Contributions  
+![Visitor Count](https://komarev.com/ghpvc/?username=homayungit&color=green)  
+
+📌 **Always open to collaboration and knowledge sharing!** 🤝
